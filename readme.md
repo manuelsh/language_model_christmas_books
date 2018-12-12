@@ -1,3 +1,4 @@
+# A Christmas books title generator
 
 Based on the Christmsas books dataset, a language model is trained to generate new book titles. The model will learn, character by character. It will start with some baby-talk like:
 
